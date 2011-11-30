@@ -11,6 +11,7 @@ gem 'rails', '3.1.3'
 # gem 'rails',     :git => 'git://github.com/rails/rails.git'
 
 gem 'sqlite3'
+gem 'pg'
 
 
 # Gems used only for assets and not required
